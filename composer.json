@@ -6,6 +6,7 @@
     "payu",
     "gateway"
   ],
+  "license": "MIT",
   "authors": [
     {
       "name": "Daniel Martínez",
