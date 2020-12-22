@@ -1,0 +1,28 @@
+{
+  "name": "hendaniel/payulatam-php-sdk",
+  "description": "A PHP wrapper to access the PayU API.",
+  "keywords": [
+    "php",
+    "payu",
+    "gateway"
+  ],
+  "authors": [
+    {
+      "name": "Daniel Martínez",
+      "email": "danielmartinezdm@hotmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.2.1",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-mbstring": "*",
+    "ext-xml": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "hendaniel\\PayU\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
