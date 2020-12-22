@@ -31,7 +31,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Daniel Martinez - danielmartinezdn@hotmail.com
+Daniel Martinez - danielmartinezdm@hotmail.com
 
 Project Link: [https://github.com/hendaniel/payulatam_php](https://github.com/hendaniel/payulatam_php)
 
