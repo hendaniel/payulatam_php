@@ -18,7 +18,7 @@ This is a wrapper for PayU Latam PHP SDK.
 ### Installation
 
 ```sh
-   composer require hendaniel/payulatam-php-sdk
+composer require hendaniel/payulatam-php-sdk
    ```
 
 <!-- LICENSE -->
