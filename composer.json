@@ -25,5 +25,5 @@
       "hendaniel\\PayU\\": "src/"
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "stable"
 }
